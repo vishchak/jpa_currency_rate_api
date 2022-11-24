@@ -29,9 +29,9 @@
       <version>8.0.21</version>
     </dependency>
     <dependency>
-      <groupId>c3p0</groupId>
-      <artifactId>c3p0</artifactId>
-      <version>0.9.1.2</version>
+      <groupId>org.hibernate</groupId>
+      <artifactId>hibernate-entitymanager</artifactId>
+      <version>5.2.2.Final</version>
     </dependency>
     <dependency>
       <groupId>com.google.code.gson</groupId>
